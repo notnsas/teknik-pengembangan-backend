@@ -1,6 +1,6 @@
 import json
 import pytest
-from app.model_deployment import app
+from app import app
 
 
 @pytest.fixture
